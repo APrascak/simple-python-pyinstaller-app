@@ -12,9 +12,6 @@ class TestCalc(unittest.TestCase):
         """
         result = calc.add2(1, 2)
         self.assertEqual(result, 3)
-        x = 8 / 0
-        test = int[3]
-        test[4]
 
     def test_add_floats(self):
         """
